@@ -43,14 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Examples\Ex006.cs" />
-    <Compile Include="Examples\Ex005.cs" />
-    <Compile Include="Examples\Ex001.cs" />
-    <Compile Include="Examples\Ex002.cs" />
-    <Compile Include="Examples\Ex003.cs" />
-    <Compile Include="Examples\Ex004.cs" />
-    <Compile Include="Examples\Ex008.cs" />
-    <Compile Include="Examples\Ex007.cs" />
+    <Compile Include="Examples\Ex1~10\Ex006.cs" />
+    <Compile Include="Examples\Ex1~10\Ex005.cs" />
+    <Compile Include="Examples\Ex1~10\Ex001.cs" />
+    <Compile Include="Examples\Ex1~10\Ex002.cs" />
+    <Compile Include="Examples\Ex1~10\Ex003.cs" />
+    <Compile Include="Examples\Ex1~10\Ex004.cs" />
+    <Compile Include="Examples\Ex1~10\Ex008.cs" />
+    <Compile Include="Examples\Ex1~10\Ex007.cs" />
+    <Compile Include="Examples\Ex1~10\Ex009.cs" />
+    <Compile Include="Examples\Ex1~10\Ex010.cs" />
     <Compile Include="Examples\Hello.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
