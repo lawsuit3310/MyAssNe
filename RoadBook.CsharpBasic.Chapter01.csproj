@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Examples\Ex11~\Ex011.cs" />
-    <Compile Include="Examples\Ex11~\Ex012.cs" />
     <Compile Include="Examples\Ex1~10\Ex006.cs" />
     <Compile Include="Examples\Ex1~10\Ex005.cs" />
     <Compile Include="Examples\Ex1~10\Ex001.cs" />
@@ -63,6 +61,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Examples\Ex11~\" />
     <Folder Include="Works\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
